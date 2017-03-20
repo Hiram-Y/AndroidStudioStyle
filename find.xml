@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Android-GomeFinance'" />
-    <option name="defaultScopeName" value="Project 'Android-GomeFinance'" />
-    <option name="SEARCH_SCOPE" value="Project 'Android-GomeFinance'" />
+    <option name="customScope" value="Module 'app'" />
+    <option name="defaultScopeName" value="Module 'app'" />
+    <option name="SEARCH_SCOPE" value="Module 'app'" />
   </component>
 </application>
