@@ -4,7 +4,10 @@
       <mapping ext="aar" type="AIDL" />
       <mapping ext="so" type="ARCHIVE" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
