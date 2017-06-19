@@ -11,6 +11,7 @@
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
