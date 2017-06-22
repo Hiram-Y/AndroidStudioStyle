@@ -7,12 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.gra</mask>
-      <mask>*.gr</mask>
-      <mask>*.g</mask>
-      <mask>*.x'n'k</mask>
-      <mask>*.x'n</mask>
-      <mask>*.x'm</mask>
       <mask>*.x'm'l</mask>
       <mask>*。l</mask>
       <mask>*l</mask>
@@ -32,10 +26,16 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
+      <mask>*.g</mask>
+      <mask>*.g'r</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
+      <mask>*.jar</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
+      <mask>*.java'e</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
