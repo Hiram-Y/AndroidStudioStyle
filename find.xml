@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.x'm'l</mask>
       <mask>*。l</mask>
       <mask>*l</mask>
       <mask>*.javal</mask>
@@ -28,13 +27,14 @@
       <mask>*.g'r</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.jar</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java'e</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
