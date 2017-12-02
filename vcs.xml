@@ -218,8 +218,12 @@
           <option name="url" value="https://github.com/xiaolei123/CircleProgressBar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/qdxxxx/BezierViewPager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects2/CircleProgressBar1" />
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects2/BezierViewPager" />
   </component>
 </application>
