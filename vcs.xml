@@ -238,8 +238,12 @@
           <option name="url" value="https://github.com/dyw1019656137/MyApplication.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/heyl1989/fanglian_user.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects2/MyApplication" />
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects2/fanglian_user" />
   </component>
 </application>
