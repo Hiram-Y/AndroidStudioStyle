@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Gradle Build (Logging)" displayType="STICKY_BALLOON" />
   </component>
 </application>
