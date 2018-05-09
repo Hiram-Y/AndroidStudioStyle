@@ -3,38 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <recentFileMasks>
-      <mask>*。l</mask>
-      <mask>*l</mask>
-      <mask>*.javal</mask>
-      <mask>*.javl</mask>
-      <mask>*.jal</mask>
-      <mask>*.jl</mask>
-      <mask>*.l</mask>
-      <mask>*.xl</mask>
-      <mask>*，</mask>
-      <mask>。</mask>
-      <mask>#</mask>
-      <mask>*。</mask>
-      <mask>*</mask>
-      <mask>*</mask>
-      <mask>*.xmll</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.g</mask>
-      <mask>*.g'r</mask>
-      <mask>*.gra</mask>
-      <mask>*.gradle</mask>
-      <mask>*.jar</mask>
-      <mask>*.java'e</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
-      <mask>*.*</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.mxml" />
   </component>
 </application>
