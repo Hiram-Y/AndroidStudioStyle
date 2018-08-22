@@ -4,6 +4,7 @@
       <mapping ext="aar" type="AIDL" />
       <mapping ext="dex" type="ARCHIVE" />
       <mapping pattern="Task" type="CLASS" />
+      <mapping pattern="1534909329200_18664" type="PLAIN_TEXT" />
       <mapping ext="kys" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
