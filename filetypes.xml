@@ -5,11 +5,15 @@
       <mapping ext="dex" type="ARCHIVE" />
       <mapping pattern="Task" type="CLASS" />
       <mapping pattern="1534909329200_18664" type="PLAIN_TEXT" />
+      <mapping ext="at" type="PLAIN_TEXT" />
       <mapping ext="kys" type="PLAIN_TEXT" />
+      <mapping ext="len" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="tab" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="keystream" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
     </extensionMap>

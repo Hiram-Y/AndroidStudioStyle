@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Kotlin">
         <added pattern="kotlin.collections.plus(elements)" />
+        <added pattern="android.databinding.DataBindingUtil.setContentView(activity,layoutId)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
