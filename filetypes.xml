@@ -10,9 +10,10 @@
       <mapping ext="at" type="PLAIN_TEXT" />
       <mapping ext="kys" type="PLAIN_TEXT" />
       <mapping ext="len" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="mmap2" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="keystream" type="PLAIN_TEXT" />
